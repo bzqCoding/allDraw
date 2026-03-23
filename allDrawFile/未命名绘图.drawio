@@ -10,6 +10,9 @@
         <mxCell id="A4XjOf6kWqOjP5d3UL5t-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MCP Server" vertex="1">
           <mxGeometry height="30" width="90" x="215" y="110" as="geometry" />
         </mxCell>
+        <mxCell id="A4XjOf6kWqOjP5d3UL5t-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MCP Host" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
