@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A4XjOf6kWqOjP5d3UL5t-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mcp，就是很多tool" vertex="1">
-          <mxGeometry height="60" width="120" x="280" y="210" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="A4XjOf6kWqOjP5d3UL5t-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MCP Server" vertex="1">
+          <mxGeometry height="30" width="90" x="215" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
